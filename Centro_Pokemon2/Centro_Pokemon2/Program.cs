@@ -41,6 +41,7 @@ namespace Centro_Pokemon2
                         CadastroPokemon();
                         break;
                     case 2:
+                        pokebola();
                         break;
                     case 3:
                         break;
@@ -110,6 +111,17 @@ namespace Centro_Pokemon2
             double pesoPokemon = double.Parse(Console.ReadLine());
             Console.WriteLine("\n Cadastro Finalizado!!!! ");
             Thread.Sleep(2000);
+        }
+
+
+
+        static void pokebola()
+        {
+
+
+
+
+
         }
 
     }
