@@ -1,0 +1,7 @@
+C:\Users\vagner.lourenco\Documents\Centro_Pokemon2\Centro_Pokemon2\Centro_Pokemon2\bin\Debug\Centro_Pokemon2.exe.config
+C:\Users\vagner.lourenco\Documents\Centro_Pokemon2\Centro_Pokemon2\Centro_Pokemon2\bin\Debug\Centro_Pokemon2.exe
+C:\Users\vagner.lourenco\Documents\Centro_Pokemon2\Centro_Pokemon2\Centro_Pokemon2\bin\Debug\Centro_Pokemon2.pdb
+C:\Users\vagner.lourenco\Documents\Centro_Pokemon2\Centro_Pokemon2\Centro_Pokemon2\obj\Debug\Centro_Pokemon2.csproj.AssemblyReference.cache
+C:\Users\vagner.lourenco\Documents\Centro_Pokemon2\Centro_Pokemon2\Centro_Pokemon2\obj\Debug\Centro_Pokemon2.csproj.CoreCompileInputs.cache
+C:\Users\vagner.lourenco\Documents\Centro_Pokemon2\Centro_Pokemon2\Centro_Pokemon2\obj\Debug\Centro_Pokemon2.exe
+C:\Users\vagner.lourenco\Documents\Centro_Pokemon2\Centro_Pokemon2\Centro_Pokemon2\obj\Debug\Centro_Pokemon2.pdb
